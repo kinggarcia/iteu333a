@@ -2,7 +2,7 @@ package newsyntaxtree;
 
 import java.util.LinkedList;
 import java.util.Scanner;
-
+//k
 public class NewSyntaxTree {
 
     public static void main(String[] args) {
